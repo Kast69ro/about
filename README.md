@@ -4,7 +4,7 @@
 - **Что такое система контроля версий (VCS):**  
    - Позволяет отслеживать изменения файлов, возвращаться к предыдущим версиям и сравнивать изменения.  
    - Полезна для разработчиков, дизайнеров и других специалистов, работающих с файлами.
-   - (https://git-scm.com/book/en/v2/images/local.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.github.com%2Fen%2Fissues%2Fplanning-and-tracking-with-projects%2Fcustomizing-views-in-your-project%2Fchanging-the-layout-of-a-view&psig=AOvVaw0jv_6UnuzuvOvN1AmEY8gv&ust=1737540278797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJinob-6hosDFQAAAAAdAAAAABAE)
+   - ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.github.com%2Fen%2Fissues%2Fplanning-and-tracking-with-projects%2Fcustomizing-views-in-your-project%2Fchanging-the-layout-of-a-view&psig=AOvVaw0jv_6UnuzuvOvN1AmEY8gv&ust=1737540278797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJinob-6hosDFQAAAAAdAAAAABAE)
 
 - **Типы систем контроля версий:**  
    - **Локальные (Local VCS):**  
